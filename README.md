@@ -35,7 +35,7 @@ Este proyecto detecta y genera todas las posibles patentes argentinas (formato "
 1. Cloná este repositorio:
 ```bash
 git clone https://github.com/totoacee/patentes-argentinas.git
-cd patentes-palabras-argentinas
+cd patentes-argentinas
 ```
 
 2. Instalá las dependencias:
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 2. Ejecuta el script:
 ```bash
-python patentes_palabras.py
+python main.py
 ```
 
 3. Los resultados se guardarán en `resultados_patrones.json`.
